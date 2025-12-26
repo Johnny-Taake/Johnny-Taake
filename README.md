@@ -92,6 +92,16 @@ I enjoy solving software engineering problems around backend systems, APIs, bots
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
+### Local LLMs / Acceleration / Embeddings
+
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=for-the-badge)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![nvidia-container-toolkit](https://img.shields.io/badge/NVIDIA-Container%20Toolkit-76B900?style=for-the-badge)
+
+#### Familiar with
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 ### Protocols
 
 ![REST](https://img.shields.io/badge/REST-API-005571?style=for-the-badge)
