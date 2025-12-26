@@ -1,0 +1,47 @@
+<svg width="240" height="56" viewBox="0 0 240 56" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2d2d2d"/>
+      <stop offset="100%" stop-color="#1a1a1a"/>
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect
+    x="4"
+    y="4"
+    rx="10"
+    ry="10"
+    width="232"
+    height="48"
+    fill="url(#bg)"
+    stroke="#70adeed7"
+    stroke-width="1.5"
+    filter="url(#glow)"
+  />
+
+  <text
+    x="120"
+    y="35"
+    font-size="16"
+    font-family="JetBrains Mono, monospace"
+    fill="#eafff5"
+    text-anchor="middle">
+    OPEN THREAD
+  </text>
+
+  <animate
+    attributeName="opacity"
+    values="1;0.92;1"
+    dur="2.5s"
+    repeatCount="indefinite" />
+
+</svg>
