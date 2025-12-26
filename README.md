@@ -35,6 +35,8 @@ I enjoy solving software engineering problems around backend systems, APIs, bots
 
 [![Open thread](./button.svg)](https://github.com/Johnny-Taake/Johnny-Taake/issues/1)
 
+👇 **Tech stack & tooling** 👇
+
 <details>
   <summary><b>Tech Stack</b></summary>
 
