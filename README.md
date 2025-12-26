@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋
 
-> Enjoy working on software engineering problems — backend systems, APIs, and developer tooling in Python and Rust, with a focus on web and app development.
+Huge Linux enthusiast - machines and software better be blazing fast 🦀🔥
+I enjoy solving software engineering problems around backend systems, APIs, and developer tooling in Python and Rust. Also do frontend sometimes 😄
 
-### Social / Profiles — Clickable
+### Social / Profiles - Clickable
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Johnny_Taake)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/530023841569832984)
@@ -88,7 +89,7 @@ Here are some ideas to get you started:
 
 ![SSH](https://img.shields.io/badge/SSH-Secure%20Shell-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### VCS / Hosting
+### VCS
 
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
