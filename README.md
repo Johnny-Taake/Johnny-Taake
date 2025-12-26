@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Backend+%26+API+Engineer;Full-stack+when+needed;Python+%7C+Rust+Enjoyer;Learned+C%2FC%2B%2B+young+by+breaking+systems+and+drives;Blazing+fast+and+safe+🦀+🔥;I+use+arch+btw;Rewrite+it+in+Rust+with+no+reason;U+should+try+Rust+🦀+&center=true&width=800&height=50">
-  </a>
+  <img src="https://readme-typing-svg.demolab.com
+    ?font=JetBrains+Mono
+    &lines=Backend+%26+API+Engineer;Full-stack+when+needed;Python+%7C+Rust+Enjoyer;With+C%2FC%2B%2B+broke+a+lot+being+young;Blazing+fast+and+safe+🦀;I+use+arch+btw
+    &center=true
+    &width=800
+    &height=50" />
 </h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
 
 Huge Linux enthusiast - machines and software better be blazing fast 🦀🔥
 I enjoy solving software engineering problems around backend systems, APIs, and developer tooling in Python and Rust. Also do frontend sometimes 😄
