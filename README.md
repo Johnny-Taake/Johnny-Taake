@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </h1>
 
 Huge Linux enthusiast - machines and software better be blazing fast 🦀🔥 *(and open-source, obviously)* 😏
-I enjoy solving software engineering problems around backend systems, APIs, bots, automations, and developer tooling in Python and Rust. Also do frontend sometimes 😄
+I enjoy solving software engineering problems around backend systems, APIs, bots, automations, applications, and developer tooling in Python and Rust. Also do frontend sometimes 😄
 
 ### Social / Profiles - Clickable
 
