@@ -31,7 +31,7 @@ I enjoy solving software engineering problems around backend systems, APIs, bots
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&borderColor=%232F9FD7)
 
-### Ideas, questions, thoughts, stack advices, code reviews, loneliness — welcome
+### Ideas, questions, thoughts, stack advices, code reviews, loneliness - welcome 
 
 [![Open thread](./button.svg)](https://github.com/Johnny-Taake/Johnny-Taake/issues/1)
 
