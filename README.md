@@ -23,6 +23,10 @@ I enjoy solving software engineering problems around backend systems, APIs, and 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/530023841569832984)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-alexandrovsky)
 
+### Random joke
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <details>
   <summary><b>Tech Stack</b></summary>
 
