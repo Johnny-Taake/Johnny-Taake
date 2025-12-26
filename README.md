@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Johnny-Taake/Johnny-Taake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,9 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋
-
-## Ivan Aleksandrovskii
+## Hi there 👋
 
 > Enjoy working on software engineering problems — backend systems, APIs, and developer tooling in Python and Rust, with a focus on web and app development.
 
