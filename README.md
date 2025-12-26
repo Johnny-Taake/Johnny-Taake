@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com
     ?font=JetBrains+Mono
-    &lines=Backend+%26+API+Engineer;Full-stack+when+needed;Python+%7C+Rust+Enjoyer;Blazing+fast+and+safe;I+use+arch+btw
+    &lines=Backend+%26+API+Engineer;Full-stack+when+needed;Python+%7C+Rust+Enjoyer;I+use+arch+btw
     &center=true
     &width=800
     &height=50" />
