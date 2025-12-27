@@ -27,13 +27,12 @@ I enjoy solving software engineering problems around backend systems, APIs, bots
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/530023841569832984)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-alexandrovsky)
 
-### Random joke
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&borderColor=%232F9FD7)
-
-### Ideas, questions, thoughts, stack advice, code reviews, loneliness - welcome
-
-[![Open thread](./button.svg)](https://github.com/Johnny-Taake/Johnny-Taake/issues/1)
+<h3>Random joke</h3>
+<img src="https://readme-jokes.vercel.app/api?theme=dark&borderColor=%232F9FD7" />
+<h3>Ideas, questions, thoughts, stack advice, code reviews, loneliness — welcome</h3>
+<a href="https://github.com/Johnny-Taake/Johnny-Taake/issues/1">
+  <img src="./button.svg" />
+</a>
 
 <details>
   <summary><b>📂 Tech stack & tooling</b></summary>
