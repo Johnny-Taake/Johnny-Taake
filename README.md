@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi there 👋
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&lines=Backend+%26+API+Engineer;Full-stack+/+Frontend+when+needed;Python+%7C+Rust+Enjoyer;Blazing+fast+and+100%+safe;I+use+arch+btw;U+should+try+Svelte;Rewrite+it+in+Rust&center=true&width=800&height=50" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&lines=Backend+%26+API+Engineer;Full-stack+/+Frontend+when+needed;Python+%7C+Rust+Enjoyer;Blazing+fast+and+100%+safe;I+use+arch+btw;U+should+try+Svelte;Rewrite+it+in+Rust;High+tech+%26+Low+life&center=true&width=800&height=50" />
 </h1>
 
 Huge Linux enthusiast - machines and software better be blazing fast 🦀🔥 *(and open-source, obviously)* 😏
