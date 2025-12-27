@@ -31,12 +31,13 @@ I enjoy solving software engineering problems around backend systems, APIs, bots
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark&borderColor=%232F9FD7)
 
-### Ideas, questions, thoughts, stack advices, code reviews, loneliness - welcome 
+### Ideas, questions, thoughts, stack advice, code reviews, loneliness - welcome
 
 [![Open thread](./button.svg)](https://github.com/Johnny-Taake/Johnny-Taake/issues/1)
 
 <details>
   <summary><b>📂 Tech stack & tooling</b></summary>
+  <div>
 
 ## Tech Stack
 
@@ -45,6 +46,12 @@ I enjoy solving software engineering problems around backend systems, APIs, bots
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+#### Familiar with
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend / Templating
 
@@ -116,12 +123,6 @@ I enjoy solving software engineering problems around backend systems, APIs, bots
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
-### Languages (Familiar with)
-
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 ### Shells
 
 ![Fish](https://img.shields.io/badge/Fish-4AAE8C?style=for-the-badge&logo=fishshell&logoColor=white)
@@ -143,6 +144,8 @@ I enjoy solving software engineering problems around backend systems, APIs, bots
 
 ![Yazi](https://img.shields.io/badge/Yazi-111111?style=for-the-badge)
 ![Ranger](https://img.shields.io/badge/Ranger-111111?style=for-the-badge)
+![fzf](https://img.shields.io/badge/fzf-fuzzy%20finder-111111?style=for-the-badge)
+![zoxide](https://img.shields.io/badge/zoxide-smarter%20cd-111111?style=for-the-badge)
 
 ![Lazygit](https://img.shields.io/badge/Lazygit-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LazyVim](https://img.shields.io/badge/LazyVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
@@ -185,4 +188,5 @@ I enjoy solving software engineering problems around backend systems, APIs, bots
 ![Scoop](https://img.shields.io/badge/Scoop-2D89EF?style=for-the-badge)
 ![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?style=for-the-badge&logo=chocolatey&logoColor=white)
 
+</div>
 </details>

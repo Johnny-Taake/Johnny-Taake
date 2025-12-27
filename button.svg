@@ -1,47 +1,44 @@
 <svg width="240" height="56" viewBox="0 0 240 56" xmlns="http://www.w3.org/2000/svg">
-
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#2d2d2d"/>
-      <stop offset="100%" stop-color="#1a1a1a"/>
+      <stop offset="0%" stop-color="#232323"/>
+      <stop offset="100%" stop-color="#141414"/>
     </linearGradient>
 
-    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0.00"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-20%" y="-60%" width="140%" height="220%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.45"/>
     </filter>
+
+    <clipPath id="clip">
+      <rect x="4" y="4" rx="12" ry="12" width="232" height="48"/>
+    </clipPath>
   </defs>
 
-  <rect
-    x="4"
-    y="4"
-    rx="10"
-    ry="10"
-    width="232"
-    height="48"
-    fill="url(#bg)"
-    stroke="#70adeed7"
-    stroke-width="1.5"
-    filter="url(#glow)"
-  />
+  <g clip-path="url(#clip)" filter="url(#shadow)">
+    <rect x="4" y="4" rx="12" ry="12" width="232" height="48" fill="url(#bg)"/>
 
-  <text
-    x="120"
-    y="35"
-    font-size="16"
-    font-family="JetBrains Mono, monospace"
-    fill="#eafff5"
-    text-anchor="middle">
+    <rect x="4" y="4" rx="12" ry="12" width="232" height="48" fill="url(#sheen)"/>
+
+    <rect x="4.75" y="4.75" rx="11.25" ry="11.25" width="230.5" height="46.5"
+          fill="none" stroke="#2F9FD7" stroke-width="1.5" stroke-opacity="0.95"/>
+
+    <rect x="6.25" y="6.25" rx="10.25" ry="10.25" width="227.5" height="43.5"
+          fill="none" stroke="#2F9FD7" stroke-width="1" stroke-opacity="0.18"/>
+  </g>
+
+  <text x="120" y="35"
+        font-size="16"
+        font-family="JetBrains Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
+        fill="#EAF6FF"
+        text-anchor="middle"
+        letter-spacing="0.5">
     OPEN THREAD
   </text>
 
-  <animate
-    attributeName="opacity"
-    values="1;0.92;1"
-    dur="2.5s"
-    repeatCount="indefinite" />
-
+  <animate attributeName="opacity" values="1;0.96;1" dur="2.8s" repeatCount="indefinite"/>
 </svg>
