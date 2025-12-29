@@ -15,19 +15,19 @@
     </filter>
 
     <clipPath id="clip">
-      <rect x="4" y="4" rx="12" ry="12" width="232" height="48"/>
+      <rect x="4" y="4" rx="8" ry="8" width="232" height="48"/>
     </clipPath>
   </defs>
 
   <g clip-path="url(#clip)" filter="url(#shadow)">
-    <rect x="4" y="4" rx="12" ry="12" width="232" height="48" fill="url(#bg)"/>
+    <rect x="4" y="4" rx="8" ry="8" width="232" height="48" fill="url(#bg)"/>
 
-    <rect x="4" y="4" rx="12" ry="12" width="232" height="48" fill="url(#sheen)"/>
+    <rect x="4" y="4" rx="8" ry="8" width="232" height="48" fill="url(#sheen)"/>
 
-    <rect x="4.75" y="4.75" rx="11.25" ry="11.25" width="230.5" height="46.5"
+    <rect x="4.75" y="4.75" rx="7.25" ry="7.25" width="230.5" height="46.5"
           fill="none" stroke="#2F9FD7" stroke-width="1.5" stroke-opacity="0.95"/>
 
-    <rect x="6.25" y="6.25" rx="10.25" ry="10.25" width="227.5" height="43.5"
+    <rect x="6.25" y="6.25" rx="6.25" ry="6.25" width="227.5" height="43.5"
           fill="none" stroke="#2F9FD7" stroke-width="1" stroke-opacity="0.18"/>
   </g>
 
