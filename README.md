@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&lines=Backend+%26+API+Engineer;Full-stack+/+Frontend+when+needed;Python+%7C+Rust+Enjoyer;Blazing+fast+and+100%+safe;I+use+arch+btw;U+should+try+Svelte;Rewrite+it+in+Rust;High+tech+%26+Low+life&center=true&width=800&height=50" />
 </h1>
 
-Huge Linux enthusiast - machines and software better be blazing fast 🦀🔥 *(and open-source, obviously)* 😏
+Huge Linux enthusiast - machines and software better be blazing fast 🦀🔥 *(and open-source, obviously)*
 I enjoy solving software engineering problems around backend systems, APIs, bots, automations, applications, and developer tooling in Python and Rust. Also do frontend sometimes
 
 ### Social / Profiles - Clickable
